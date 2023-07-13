@@ -1,6 +1,11 @@
 # 42MARU_Kusitms_B
 시스템에 등록된 개체명을 특정 문장에서 추출하는 python module 개발
 
+### 요청사항
+- [ ] 개발 언어는 python, 테스트 코드 작성은 pytest 사용
+- [ ] 패턴에 해당하는 엔티티는 정규표현식을 이용해 구현
+- [ ] 구현된 모듈은 주어진 output 형태로 반환
+
 <br>
 
 ## 팀원
@@ -78,3 +83,7 @@ Redis 설치 필요 시, [설치 페이지](https://github.com/microsoftarchive/
 
 **Output (Fail case)**  
 ![fail_case](https://user-images.githubusercontent.com/76556999/191917744-71292622-afc3-4f12-8217-ec53fff9da8c.png)
+
+### 결과
+![image](https://github.com/Arin0421/42MARU_Kusitms_B/assets/73944423/968c03c0-56e9-41b5-a745-f01acf66a118)
+
